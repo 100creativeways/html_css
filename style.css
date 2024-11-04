@@ -2,6 +2,10 @@
 
 
 
+
+
+
+
 body {background-color: #fec194;
 margin: 0;
     background-image: linear-gradient(to right, #e9904c, #fed9bf,  #e9904c); }
@@ -371,9 +375,16 @@ padding: 3%;}
 .img1 {
     width: 93%;
 }
+
+
+
+
+
+
 .i_ensure {
     padding-left: 5%;
     padding-right: 5%;
 }
+
 
     }
