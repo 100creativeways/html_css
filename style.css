@@ -1,11 +1,6 @@
 
 
 
-
-
-
-
-
 body {background-color: #fec194;
 margin: 0;
     background-image: linear-gradient(to right, #e9904c, #fed9bf,  #e9904c); }
@@ -363,4 +358,20 @@ header {
     padding: 2%;
 }
 
+
+header {
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.briefing {
+padding: 3%;}
+
+
+.img1 {
+    width: 93%;
+}
+
+
+    
     }
