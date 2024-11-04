@@ -1,5 +1,11 @@
 
 
+
+
+
+
+
+
 body {background-color: #fec194;
 margin: 0;
     background-image: linear-gradient(to right, #e9904c, #fed9bf,  #e9904c); }
@@ -353,9 +359,22 @@ body, html {
     overflow-x: hidden;
 }
 
+
+
+
+
 header {
-    padding: 2%;
+    padding-left: 3%;
+    padding-right: 3%;
 }
 
-    
+.briefing {
+padding: 3%;}
+
+
+.img1 {
+    width: 93%;
+}
+
+
     }
