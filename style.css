@@ -1,6 +1,7 @@
 
 
 
+
 body {background-color: #fec194;
 margin: 0;
     background-image: linear-gradient(to right, #e9904c, #fed9bf,  #e9904c); }
@@ -354,9 +355,8 @@ body, html {
     overflow-x: hidden;
 }
 
-header {
-    padding: 2%;
-}
+
+
 
 
 header {
@@ -373,5 +373,4 @@ padding: 3%;}
 }
 
 
-    
     }
